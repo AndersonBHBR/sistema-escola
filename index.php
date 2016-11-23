@@ -12,7 +12,7 @@
         <img src="img/logo.png"
     </div>
 
-    <div id="caixa_login"
+    <div id="caixa_login">
     <?php
         if(isset($_POST['button'])){
             $code = $_POST['code'];
@@ -23,7 +23,7 @@
             else if($password == ''){
                 echo "<h2> Por favor, digite sua senha! </h2>";
             }else{
-                $sql = "SELECT * FROM login WHERE code = '$code' AND senha = '$password''";
+                $sql = "SELECT * FROM login WHERE code = '$code' AND senha = '$password'";
                 $result = mysqli_query($conexao,$sql);
                 if(mysqli_num_rows($result) > 0){
                     while($res_1 = mysqli_fetch_assoc($result)){
