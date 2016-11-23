@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9b8ed9c-8103-4a1d-9581-6f41870114a0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aluno/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portaria/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/professor/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tesouraria/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conexao.php" afterPath="$PROJECT_DIR$/conexao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sistema-escola.iws" />
@@ -36,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.59859157" vertical-offset="612" max-vertical-offset="1547">
+            <state vertical-scroll-proportion="13.076923" vertical-offset="612" max-vertical-offset="1547">
               <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding>
                 <marker date="1479602931748" expanded="true" signature="750:790" placeholder="SELECT * FRO..tabela..." />
@@ -59,6 +51,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="408">
               <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conexao.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conexao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.11703958" vertical-offset="0" max-vertical-offset="581">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -93,7 +95,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/estilo.css" />
-        <option value="$PROJECT_DIR$/conexao.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/admin/index.php" />
         <option value="$PROJECT_DIR$/aluno/index.php" />
@@ -102,6 +103,7 @@
         <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/portaria/index.php" />
+        <option value="$PROJECT_DIR$/conexao.php" />
       </list>
     </option>
   </component>
@@ -300,7 +302,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="651" y="0" width="723" height="744" extended-state="1" />
+    <frame x="651" y="0" width="723" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -589,14 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conexao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35111877" vertical-offset="0" max-vertical-offset="581">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23943663" vertical-offset="0" max-vertical-offset="697">
@@ -636,7 +630,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.59859157" vertical-offset="612" max-vertical-offset="1547">
+        <state vertical-scroll-proportion="13.076923" vertical-offset="612" max-vertical-offset="1547">
           <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding>
             <marker date="1479602931748" expanded="true" signature="750:790" placeholder="SELECT * FRO..tabela..." />
@@ -647,6 +641,14 @@
             <marker date="1479602931748" expanded="true" signature="3153:3191" placeholder="..." />
             <marker date="1479602931748" expanded="true" signature="3270:3309" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11703958" vertical-offset="0" max-vertical-offset="581">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
